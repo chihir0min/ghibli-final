@@ -1,0 +1,121 @@
+  @import url("https://fonts.googleapis.com/css2?family=M+PLUS+Rounded+1c:wght@300;400;500;600&display=swap");
+html{
+  background-image: url(https://64.media.tumblr.com/tumblr_m8j0z7dIme1rdnwxgo1_1280.png);
+background-repeat:  space;
+background-size:  contain;
+background-position: center;
+font-family: "m plus rounded 1c";
+
+
+}
+body {    display: block;
+  width: 1600px;
+  margin: 0 auto;
+  background-color: white;
+padding: 20px 0px 0px 0px;
+
+}
+
+p {
+  padding: 20px 100px 20px 100px;
+  font-size: 15px;
+  color: white;
+
+}
+
+.logo {
+  margin-left: 60px;
+  margin-right: 850px;
+  height: 150px;
+  align-items: center;
+}
+.container{
+background: #339FFF;
+padding: 0px 0px 0px 0px;
+display:  inline-flex;
+}
+
+.banner {
+  height: 86.5px;
+  padding: 0px 0px 0px 0px;
+  display: block;
+}
+
+.sketch {background-color: #339FFF;
+color: white;
+padding: 15px 15px 15px 15px;
+text-decoration: none;
+margin-right: 30px;
+margin-left: 20px;
+border-radius: 20px;
+text-align: center;
+
+
+}
+.sketch:hover {
+  background-color: #9AE1A7;
+}
+
+.peliculas {
+  background-color: #339FFF;
+  color: white;
+  padding: 15px 15px 15px 15px;
+  text-decoration: none;
+border-radius: 20px;
+  object-position: right;
+
+}
+
+.peliculas:hover {
+  background-color: #EBA8CE;
+}
+.museo1 {
+  margin-right: 0px;
+  display: inline-block;
+
+}
+.museo2 {
+  margin-left: 0px;
+display: inline-block;
+
+}
+.escena {
+  display: block;
+  height: 865px;
+}
+
+h3 {
+  text-align: center;
+  color: white;
+  padding: 50px 50px 50px 50px;
+  display: block;
+}
+
+.container2 {
+  background: #a1ca72;
+  padding: 0px 0px 0px 0px;
+  display: block;
+}
+.container3 {
+  background:#f3a9b6;
+  padding: 0px 0px 0px 0px;
+  display: block;
+}
+/*--paginas--*/
+.container3 .chihiro{
+  height: 525px;
+  margin-right: 20px;
+  margin-left: 20px;
+}
+.container3  .totoro{
+    height: 525px;
+    margin-right: 20px;
+  }
+.container3  .howl{
+      height: 525px;
+      margin-right: 20px;
+    }
+    .container3.ponyo{
+        height: 525px;
+        margin-right: 20px;
+      }

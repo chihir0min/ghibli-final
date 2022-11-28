@@ -1,0 +1,16 @@
+  @import url("https://fonts.googleapis.com/css2?family=M+PLUS+Rounded+1c:wght@300;400;500;600&display=swap");
+html{
+  background-image: url(https://64.media.tumblr.com/tumblr_m8j0z7dIme1rdnwxgo1_1280.png);
+background-size:  contain;
+background-position: center;
+font-family: "m plus rounded 1c";
+
+
+}
+body {    display: block;
+  width: 1600px;
+  margin: 0 auto;
+  background-color: white;
+padding: 20px 0px 0px 0px;
+
+}
